@@ -1,0 +1,53 @@
+body {
+    font-family: "Montserrat";
+    background-color: whitesmoke;
+    font-weight: 400;
+    padding: 30px;
+}
+
+p {
+    text-indent: 1.5rem;
+}
+
+main{
+    background-color: white;
+    padding: 30px;
+    padding-top: 2px;
+}
+
+h1{
+    font-style: italic;
+    margin-bottom: 0;
+    font-size: 40px;
+}
+
+#sumariotitulo{
+    background-color: #70C3FF;
+    border: 1px solid black;
+    margin: 0;
+    width: 250px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+#sumario{
+    background-color: white;
+    border: 1px solid black;
+    width: 250px;
+    font-size: 20px;
+}
+
+a{
+    color: black;
+    font-weight: 400;
+}
+
+h2{
+    margin-bottom: 0;
+    font-size: 32px;
+}
+
+#sinopse,#produção,#mídia{
+    font-weight: 500;
+}
